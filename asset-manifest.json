@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filmfinder/static/css/main.3182536f.css",
+    "main.js": "/filmfinder/static/js/main.9468e074.js",
+    "index.html": "/filmfinder/index.html",
+    "main.3182536f.css.map": "/filmfinder/static/css/main.3182536f.css.map",
+    "main.9468e074.js.map": "/filmfinder/static/js/main.9468e074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3182536f.css",
+    "static/js/main.9468e074.js"
+  ]
+}
